@@ -45,7 +45,7 @@ I'm a bilingual (**English** and **Spanish**) student with strong programming sk
 
 I'm always looking for opportunities to learn and collaborate on exciting projects. If you have an idea, a proposal, or just want to exchange knowledge, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Pedroza-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/d-e-pedroza-polo-86a48036a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Pedroza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/d-e-pedroza-polo-86a48036a/)
 
 ---
 
