@@ -1,7 +1,7 @@
 # 👨‍💻 Daniel Pedroza | Kernel Philosopher
 
 Hi there! Welcome to my GitHub profile! 🚀  
-I'm **Daniel Pedroza**, also known as **Kernel Philosopher** online. I'm currently a **Systems Engineering student in my 5th semester**, honing my technical skills and gaining experience in programming and artificial intelligence. My passion for technology and constant learning drives me to create innovative solutions that turn ideas into reality.
+I'm **Daniel Pedroza**, also known as **Kernel Philosopher** online. I'm currently a **Systems Engineering student in my 6th semester**, honing my technical skills and gaining experience in programming and artificial intelligence. My passion for technology and constant learning drives me to create innovative solutions that turn ideas into reality.
 
 ---
 
