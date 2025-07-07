@@ -1,56 +1,74 @@
 # 👨‍💻 Daniel Pedroza | Kernel Philosopher
 
-Hi there! Welcome to my GitHub profile! 🚀  
-I'm **Daniel Pedroza**, also known as **Kernel Philosopher** online. I'm currently a **Systems Engineering student in my 6th semester**, honing my technical skills and gaining experience in programming and artificial intelligence. My passion for technology and constant learning drives me to create innovative solutions that turn ideas into reality.
+¡Hola! Bienvenido a mi perfil de GitHub 🚀
+
+Soy **Daniel Pedroza**, también conocido como **Kernel Philosopher** en línea. Actualmente soy **estudiante de Ingeniería de Sistemas en 6to semestre**, perfeccionando mis habilidades técnicas y adquiriendo experiencia en programación e inteligencia artificial. Mi pasión por la tecnología y el aprendizaje continuo me impulsa a crear soluciones innovadoras que transforman ideas en realidad.
 
 ---
 
-## 🌟 About Me
+## 🌟 Sobre Mí
 
-I'm a bilingual (**English** and **Spanish**) student with strong programming skills and a deep interest in developing AI-based solutions. I focus on creating academic and personal projects that showcase my creativity, problem-solving abilities, and commitment to excellence.
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming Languages**:
-  - Java ☕: Experienced in object-oriented programming and application development.
-  - Python 🐍: Proficient in using Python for dynamic and scalable web development, leveraging frameworks such as FastAPI.
-- **Teamwork**:
-  - Proven ability to collaborate in multicultural and multilingual environments.
-- **Tools and Technologies**:
-  - Git and GitHub: Version control and collaborative workflows.
-  - IDEs: NetBeans, PyCharm, VS Code.
-  - Software Design Principles: Efficiency and scalability.
+Soy un estudiante bilingüe (**inglés** y **español**) con sólidas habilidades en programación y un profundo interés en el desarrollo de soluciones basadas en IA. Me enfoco en crear proyectos académicos y personales que demuestren mi creatividad, capacidad de resolución de problemas y compromiso con la excelencia.
 
 ---
 
-## 🧠 Interests
+## 🛠️ Habilidades Técnicas
 
-- **Software Development**:
-  - Building applications that balance functionality and design.
-- **Technology and Innovation**:
-  - Exploring emerging technologies in academic and personal projects.
+### 💻 Lenguajes de Programación
+
+- **Java** ☕: Experiencia en programación orientada a objetos y desarrollo de aplicaciones
+- **Python** 🐍: Competente en el uso de Python para desarrollo web dinámico y escalable, aprovechando frameworks como FastAPI
+- **JavaScript**: Desarrollo de aplicaciones web interactivas y dinámicas
+
+### 🌐 Tecnologías Web
+
+- **HTML5**: Estructuración semántica de contenido web
+- **CSS3**: Diseño y estilizado de interfaces de usuario
+
+### 🔧 Herramientas y Tecnologías
+
+- **Control de Versiones**: Git y GitHub para flujos de trabajo colaborativos
+- **IDEs**: NetBeans, PyCharm, VS Code
+- **Principios de Diseño**: Eficiencia y escalabilidad en el desarrollo de software
+
+### 👥 Habilidades Interpersonales
+
+- Capacidad comprobada para colaborar en entornos multiculturales y multilingües
+- Trabajo en equipo efectivo en proyectos de desarrollo
 
 ---
 
-## 🌍 Languages
+## 🧠 Áreas de Interés
 
-- **Spanish**: Native.
-- **English**: Intermediate Level (B1), excellent written and verbal communication.
+### 🚀 Desarrollo de Software
+
+- Construcción de aplicaciones que equilibran funcionalidad y diseño
+- Implementación de mejores prácticas en arquitectura de software
+
+### 🔬 Tecnología e Innovación
+
+- Exploración de tecnologías emergentes en proyectos académicos y personales
+- Investigación en aplicaciones de inteligencia artificial
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🌍 Idiomas
 
-I'm always looking for opportunities to learn and collaborate on exciting projects. If you have an idea, a proposal, or just want to exchange knowledge, feel free to reach out!
+- **Español**: Nativo
+- **Inglés**: Nivel Intermedio (B1) - Excelente comunicación escrita y verbal
+
+---
+
+## 🤝 ¡Colaboremos!
+
+Siempre estoy buscando oportunidades para aprender y colaborar en proyectos emocionantes. Si tienes una idea, una propuesta o simplemente quieres intercambiar conocimientos, ¡no dudes en contactarme!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Pedroza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/d-e-pedroza-polo-86a48036a/)
 
 ---
 
-## 📙 Philosophy
+## 📙 Filosofía
 
-> "The purpose of technology is not to replace humans but to enhance their ability to solve problems and build a better future."
+> "El propósito de la tecnología no es reemplazar a los humanos, sino potenciar su capacidad para resolver problemas y construir un futuro mejor."
 
-Thank you for visiting my profile! 🎉
+¡Gracias por visitar mi perfil! 🎉
